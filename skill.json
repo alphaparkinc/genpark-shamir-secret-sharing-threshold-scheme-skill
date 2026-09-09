@@ -1,0 +1,17 @@
+{
+  "name": "genpark-shamir-secret-sharing-threshold-scheme-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Shamir (k, n) Secret Sharing Threshold Scheme with Polynomial Interpolation",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "cryptography",
+    "shamir-secret-sharing",
+    "threshold-cryptography",
+    "key-management"
+  ]
+}
